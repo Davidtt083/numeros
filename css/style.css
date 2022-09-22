@@ -1,0 +1,24 @@
+.entry-content img,
+.entry-summary img,
+.comment-content img,
+.widget img,
+.ima {
+	max-width: 100%;
+	height: auto;  
+	cursor: pointer;  
+}
+
+#fila-01{
+    margin-top: 1em;
+}
+
+
+.clicked {
+	max-width: 100%;
+	height: auto; 
+	opacity: 0.5;
+  }
+
+  .icono{
+	color: #FF6A00;
+  }
