@@ -4,21 +4,303 @@
 .widget img,
 .ima {
 	max-width: 100%;
-	height: auto;  
-	cursor: pointer;  
+	height: auto;
+	cursor: pointer;
+}
+.ima2 {
+	max-width: 100%;
+	height: auto;
+	cursor: pointer;
 }
 
-#fila-01{
-    margin-top: 1em;
+.container {
+	margin: 0;
+	position: absolute;
+	top: 47%;
+	transform: translateY(-19%);
+	transform: translateX(5%);
+}
+
+#fila-01 {
+	margin-top: 1em;
 }
 
 
 .clicked {
 	max-width: 100%;
-	height: auto; 
+	height: auto;
 	opacity: 0.5;
-  }
+}
 
-  .icono{
+.icono {
 	color: #FF6A00;
-  }
+}
+
+
+.conte1 {
+	width: 0px;
+	height: 0px;
+	-webkit-transition: all 2s ease;
+	-moz-transition: all 2s ease;
+	-o-transition: all 2s ease;
+	-ms-transition: all 2s ease;
+	transition: all 2s ease;
+}
+
+
+
+.transform-active {
+	border-radius: 4px;
+	background-color: #2e3c6b;
+	color: #ffff;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+	width: 250%;
+	position: absolute;
+	height: auto;
+	display: block;
+	top: 15%;
+	z-index: 9;
+	left: 100%;
+	padding-right: 40%;
+}
+
+.col {
+	position: relative;
+}
+
+.lista {
+	color: #ffff;
+	width: 0px;
+	height: 0px;
+	display: none;
+}
+
+.lista-active {
+	color: #ffff;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+
+.conte2 {
+	width: 0px;
+	height: 0px;
+	-webkit-transition: all 2s ease;
+	-moz-transition: all 2s ease;
+	-o-transition: all 2s ease;
+	-ms-transition: all 2s ease;
+	transition: all 2s ease;
+}
+
+.transform-active2 {
+	border-radius: 4px;
+	background-color: #965155;
+	color: #ffff;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+	width: 250%;
+	position: absolute;
+	height: auto;
+	display: block;
+	top: 15%;
+	z-index: 9;
+	left: 100%;
+	padding-right: 40%;
+}
+
+
+.lista2 {
+	color: #ffff;
+	width: 0px;
+	height: 0px;
+	display: none;
+}
+
+.lista-active2 {
+	color: #ffff;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+
+
+
+.conte3 {
+	width: 0px;
+	height: 0px;
+	-webkit-transition: all 2s ease;
+	-moz-transition: all 2s ease;
+	-o-transition: all 2s ease;
+	-ms-transition: all 2s ease;
+	transition: all 2s ease;
+}
+
+.transform-active3 {
+	border-radius: 4px;
+	background-color: #965155;
+	color: #ffff;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+	width: 250%;
+	position: absolute;
+	height: auto;
+	display: block;
+	top: 15%;
+	z-index: 9;
+	left: 100%;
+	padding-right: 40%;
+}
+
+
+.lista3 {
+	color: #ffff;
+	width: 0px;
+	height: 0px;
+	display: none;
+}
+
+.lista-active3 {
+	color: #ffff;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+
+
+.conte4 {
+	width: 0px;
+	height: 0px;
+	-webkit-transition: all 2s ease;
+	-moz-transition: all 2s ease;
+	-o-transition: all 2s ease;
+	-ms-transition: all 2s ease;
+	transition: all 2s ease;
+}
+
+.transform-active4 {
+	border-radius: 4px;
+	background-color: #965155;
+	color: #ffff;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+	width: 250%;
+	position: absolute;
+	height: auto;
+	display: block;
+	top: 15%;
+	z-index: 9;
+	left: -230%;
+	padding-right: 40%;
+}
+
+
+.lista4 {
+	color: #ffff;
+	width: 0px;
+	height: 0px;
+	display: none;
+}
+
+.lista-active4 {
+	color: #ffff;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+
+
+.conte5 {
+	width: 0px;
+	height: 0px;
+	-webkit-transition: all 2s ease;
+	-moz-transition: all 2s ease;
+	-o-transition: all 2s ease;
+	-ms-transition: all 2s ease;
+	transition: all 2s ease;
+}
+
+.transform-active5 {
+	border-radius: 4px;
+	background-color: #906987;
+	color: #ffff;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+	width: 250%;
+	position: absolute;
+	height: auto;
+	display: block;
+	top: 15%;
+	z-index: 9;
+	left: -230%;
+	padding-right: 40%;
+}
+
+
+.lista5 {
+	color: #ffff;
+	width: 0px;
+	height: 0px;
+	display: none;
+}
+
+.lista-active5 {
+	color: #ffff;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+
+
+
+.conte6 {
+	width: 0px;
+	height: 0px;
+	-webkit-transition: all 2s ease;
+	-moz-transition: all 2s ease;
+	-o-transition: all 2s ease;
+	-ms-transition: all 2s ease;
+	transition: all 2s ease;
+}
+
+.transform-active6 {
+	border-radius: 4px;
+	background-color: #4262ab;
+	color: #ffff;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+	width: 250%;
+	position: absolute;
+	height: auto;
+	display: block;
+	top: 15%;
+	z-index: 9;
+	left: -230%;
+	padding-right: 40%;
+}
+
+
+.lista6 {
+	color: #ffff;
+	width: 0px;
+	height: 0px;
+	display: none;
+}
+
+.lista-active6 {
+	color: #ffff;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.titulos{
+	border-radius: 4px;
+	background-color: #FF6A00;
+	color: #ffff;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+	width: 100%;
+	position: absolute;
+	height: auto;
+	z-index: 9;
+	padding: 1em;
+}
