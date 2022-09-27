@@ -7,6 +7,14 @@
 	height: auto;
 	cursor: pointer;
 }
+body{
+	justify-content: center;
+}
+.padre{
+	display:flex;
+    justify-content: center;
+    align-items: center;
+}
 .ima2 {
 	max-width: 100%;
 	height: auto;
@@ -14,11 +22,12 @@
 }
 
 .container {
+	width:100%;
 	margin: 0;
 	position: absolute;
 	top: 47%;
 	transform: translateY(-19%);
-	transform: translateX(5%);
+
 }
 
 #fila-01 {
@@ -293,7 +302,7 @@
 	display: block;
 }
 
-.titulos{
+.titulos {
 	border-radius: 4px;
 	background-color: #FF6A00;
 	color: #ffff;
