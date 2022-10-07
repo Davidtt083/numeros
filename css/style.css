@@ -7,22 +7,48 @@
 	height: auto;
 	cursor: pointer;
 }
-body{
+
+body {
+	height: 540px;
+}
+
+
+.very-specific-design {
+	width: 1280px;
+	height: 540px;
+	padding: 50px;
+	text-align: center;
+	background:rgba(0, 0, 0, 0);
+	position: absolute;
+	left: 50%;
+	top: -67px;
+	-webkit-transform: translate3d(-50%, 0, 0);
+	transform: translate3d(-50%, 0, 0);
+	-webkit-transform-origin: center top;
+	transform-origin: center top;
+	background-color:rgb(255, 255, 255)}
+  
+  .scaleable-wrapper {
+	padding: 20px;
+	resize: both;
+	position: relative;
+	height: 400px;
+  }
+
+.padre {
+	display: flex;
 	justify-content: center;
+	align-items: center;
 }
-.padre{
-	display:flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .ima2 {
 	max-width: 100%;
 	height: auto;
 	cursor: pointer;
 }
 
-.container {
-	width:100%;
+.containe {
+	width: 80%;
 	margin: 0;
 	position: absolute;
 	top: 47%;
