@@ -93,10 +93,11 @@ body {
 	position: absolute;
 	height: auto;
 	display: block;
-	top: 15%;
+	top: -7%;
 	z-index: 9;
 	left: 100%;
 	padding-right: 40%;
+	line-height : 20px;
 }
 
 .col {
@@ -137,10 +138,11 @@ body {
 	position: absolute;
 	height: auto;
 	display: block;
-	top: 15%;
+	top: -7%;
 	z-index: 9;
 	left: 100%;
 	padding-right: 40%;
+	line-height : 20px;
 }
 
 
@@ -180,10 +182,11 @@ body {
 	position: absolute;
 	height: auto;
 	display: block;
-	top: 15%;
+	top: -7%;
 	z-index: 9;
 	left: 100%;
 	padding-right: 40%;
+	line-height : 20px;
 }
 
 
@@ -222,10 +225,11 @@ body {
 	position: absolute;
 	height: auto;
 	display: block;
-	top: 15%;
+	top: -7%;
 	z-index: 9;
 	left: -230%;
 	padding-right: 40%;
+	line-height : 20px;
 }
 
 
@@ -264,10 +268,11 @@ body {
 	position: absolute;
 	height: auto;
 	display: block;
-	top: 15%;
+	top: -7%;
 	z-index: 9;
 	left: -230%;
 	padding-right: 40%;
+	line-height : 20px;
 }
 
 
@@ -307,10 +312,11 @@ body {
 	position: absolute;
 	height: auto;
 	display: block;
-	top: 15%;
+	top: -7%;
 	z-index: 9;
 	left: -230%;
 	padding-right: 40%;
+	line-height : 20px;
 }
 
 
