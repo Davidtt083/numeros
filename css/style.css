@@ -275,6 +275,36 @@ body {
 	line-height : 20px;
 }
 
+#t1{
+	width: 100px;
+	height: 70px;
+	background-color: #2e3c6b;
+	border:solid 1px  #FF6A00;
+	border-radius: 9px;
+	color: #FFFF;
+	text-align: center;
+	padding-top: 10px;
+	line-height : 16px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+#t2{
+	width: 100px;
+	height: 70px;
+	background-color: #2e3c6b;
+	border:solid 1px  #FF6A00;
+	border-radius: 9px;
+	color: #FFFF;
+	text-align: center;
+	padding-top: 17px;
+	line-height : 16px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
 
 .lista5 {
 	color: #ffff;
